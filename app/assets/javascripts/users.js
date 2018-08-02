@@ -1,7 +1,7 @@
 /* global $, Stripe */
 //Document ready.
 $(document).on('turbolinks:load', function(){
-  var theForm = $('#pro-form');
+  var theForm = $('#pro_form');
   var submitBtn = $('#form-signup-btn');
   
   //Set Stripe public key.
