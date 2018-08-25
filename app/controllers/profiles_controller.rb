@@ -1,5 +1,5 @@
 class ProfilesController < ApplicationController
-  before_action :authenticate_user!, only:[:new, edit]
+  before_action :authenticate_user!, only:[:new, :edit]
   before_action :only_current_user
   
   # GET to /users/:user_id/profile/new
