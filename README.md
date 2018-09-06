@@ -5,7 +5,7 @@ A full-stack application for a fictional startup company app called DevMatch. A 
 To view the project, click here: <a href="https://frozen-stream-36610.herokuapp.com" target="_blank">https://frozen-stream-36610.herokuapp.com</a>
 
 <br>
-<img src="https://user-images.githubusercontent.com/34284486/45136459-3633fc00-b1df-11e8-919d-89e81d33dbb8.png" width="600px" height="300px"> 
+<img src="https://user-images.githubusercontent.com/34284486/45136459-3633fc00-b1df-11e8-919d-89e81d33dbb8.png" width="1280px"> 
 
 From <a href="http://upskillcourses.com/" target="_blank">Upskill Courses</a>
 
@@ -17,7 +17,7 @@ From <a href="http://upskillcourses.com/" target="_blank">Upskill Courses</a>
 * Subscription payments for premium services
 
 <br>
-<img src="https://user-images.githubusercontent.com/34284486/45136471-421fbe00-b1df-11e8-9b7f-594ddc023bc4.png" width="600px" height="300px">
+<img src="https://user-images.githubusercontent.com/34284486/45136471-421fbe00-b1df-11e8-9b7f-594ddc023bc4.png" width="1280px"">
 
 ## Technologies
 
