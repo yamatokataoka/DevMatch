@@ -2,8 +2,6 @@
 
 A full-stack application for a fictional startup company app called DevMatch. A membership-based networking platform for developers, entrepreneurs, and investors.
 
-To view the project, click here: <a href="https://frozen-stream-36610.herokuapp.com" target="_blank">https://devmatch0.herokuapp.com</a>
-
 <br>
 <img src="https://user-images.githubusercontent.com/34284486/45136459-3633fc00-b1df-11e8-919d-89e81d33dbb8.png" width="1280px"> 
 
